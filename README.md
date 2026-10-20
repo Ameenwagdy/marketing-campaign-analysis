@@ -30,7 +30,15 @@ This project analyzes the performance of six marketing campaigns using Microsoft
 4. Analyzed ROI and ROAS to evaluate campaign efficiency.
 
 ## Files
-Project workbook and supporting analysis will be added to this repository.
+- `Marketing Analysis.xlsx` — Excel workbook containing the campaign analysis.
+
+## Key Findings
+- Analyzed six marketing campaigns to compare spend, revenue, profit, ROI, and ROAS.
+- Evaluated campaign performance to identify efficiency and profitability differences.
+- Used Excel functions to calculate and compare key marketing KPIs.
+
+## Note
+This project is for portfolio and learning purposes. Results should be interpreted in the context of the dataset and its assumptions.
 
 ## Skills Demonstrated
 Excel, Data Analysis, Marketing Analytics, KPI Calculation, Business Insights, and Data-Driven Decision Making.
