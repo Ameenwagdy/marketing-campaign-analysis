@@ -3,6 +3,9 @@
 ## Project Overview
 This project analyzes the performance of six marketing campaigns using Microsoft Excel functions. The goal is to evaluate campaign profitability, advertising spend, and return on investment to support better marketing decisions.
 
+## Project Preview
+![Marketing Campaign Analysis](Screenshot 2026-10-07 204846.png)
+
 ## Business Questions
 - Which campaigns generated the highest profit?
 - How efficiently was the advertising budget used?
